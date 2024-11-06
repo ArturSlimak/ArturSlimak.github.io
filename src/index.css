@@ -33,12 +33,19 @@ code {
 }
 
 .icons {
-  color: #333333;
+  color: #fffcff;
   transition: color 0.3s ease;
 }
 
 .icons:hover {
-  color: #fffcff;
+  color: #333333;
+}
+
+.nav-link {
+  color: #fffcff !important;
+  letter-spacing: 0.08em;
+  font-weight: 400;
+  font-size: 1.05rem;
 }
 
 h1 {
