@@ -32,6 +32,15 @@ code {
   background-color: #333333;
 }
 
+.icons {
+  color: #333333;
+  transition: color 0.3s ease;
+}
+
+.icons:hover {
+  color: #fffcff;
+}
+
 h1 {
   font-weight: 700;
   font-size: 6rem;
