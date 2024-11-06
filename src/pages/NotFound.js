@@ -9,7 +9,9 @@ const NotFound = () => {
               <h1>404</h1>
               <h4>Oops...you did it again</h4>
               <h4>
-                <Link to="/">Go to main</Link>
+                <Link className="links" to="/">
+                  Go to main
+                </Link>
               </h4>
             </div>
           </div>

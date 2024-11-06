@@ -7,7 +7,7 @@ const Skills = () => {
       <div className="row w-100">
         <div className="col-12 col-md-10 offset-md-1 text-start p-5">
           <h1>Skills</h1>
-          <h4>
+          <h4 className="lh-base">
             Here, I've listed all the skills I possess.
             <br /> You can find the project-based implementations of these
             skills{" "}

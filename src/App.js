@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 import Header from "./components/Header"
 import NotFound from "./pages/NotFound"
 import ReachMeOut from "./pages/ReachMeOut"
+import Projects from "./pages/Projects"
+
 import destinations from "./assets/destinations"
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
         <Route path="*" element={<NotFound />} />
         <Route path={destinations.main} element={<Home />} />
         <Route path={destinations.reachmeout} element={<ReachMeOut />} />
+        <Route path={destinations.projects} element={<Projects />} />
       </Routes>
     </Router>
   )

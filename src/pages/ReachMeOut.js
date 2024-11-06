@@ -6,7 +6,7 @@ const ReachMeOut = () => {
         <div className="row w-100">
           <div className="col-12 col-md-10 offset-md-1 text-end p-5">
             <h1>Feel free to contact me</h1>
-            <h4>
+            <h4 className="lh-base">
               <a
                 href="https://www.linkedin.com/in/artur-slimak"
                 target="_blank"
