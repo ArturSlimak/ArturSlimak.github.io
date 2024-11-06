@@ -96,12 +96,12 @@ const Header = () => {
               </button>
             </div>
           </div>
-          {/* Add the 'open' class conditionally based on `isSliderOpen` */}
+
           <div className={`mobileNav ${isSliderOpen ? "open" : ""}`}>
             <ul className="navbar-nav">
               <li className="nav-item">
                 <Link
-                  className={`nav-link ${
+                  className={`nav-link mobile ${
                     location.pathname === destinations.main ? "active" : ""
                   }`}
                   to={destinations.main}
@@ -110,9 +110,9 @@ const Header = () => {
                   Main
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <Link
-                  className={`nav-link ${
+                  className={`nav-link mobile ${
                     location.pathname === destinations.projects ? "active" : ""
                   }`}
                   to={destinations.projects}
@@ -123,7 +123,7 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  className={`nav-link ${
+                  className={`nav-link mobile ${
                     location.pathname === destinations.reachmeout
                       ? "active"
                       : ""
@@ -131,10 +131,10 @@ const Header = () => {
                   to={destinations.reachmeout}
                   onClick={toggleDropdown}
                 >
-                  Reach me out
+                  Contacts
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item mt-3">
                 <a
                   className="github-link"
                   href="https://github.com/ArturSlimak"
@@ -142,7 +142,10 @@ const Header = () => {
                   rel="noopener noreferrer"
                   onClick={toggleDropdown}
                 >
-                  <FontAwesomeIcon icon={faGithub} className="fa-2xl icons" />
+                  <FontAwesomeIcon
+                    icon={faGithub}
+                    className="fa-2xl icons mobile"
+                  />
                 </a>
               </li>
             </ul>
