@@ -127,6 +127,7 @@ h4 {
   background-color: #333333;
   padding: 2px 4px;
   border-radius: 8px;
+  white-space: nowrap;
 }
 
 .links {
