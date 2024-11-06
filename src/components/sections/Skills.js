@@ -1,9 +1,6 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import Fullpage, {
-  FullPageSections,
-  FullpageSection,
-} from "@ap.cx/react-fullpage"
+import { FullpageSection } from "@ap.cx/react-fullpage"
 const Skills = () => {
   return (
     <FullpageSection className="vh-100 redBg d-flex align-items-center scrollChild">
