@@ -75,8 +75,7 @@ const Header = () => {
           </div>
         ) : (
           // Burger button for small screens (< 992px)
-
-          <div className="ms-auto">
+          <div className="ms-auto mt-1">
             <button
               style={{
                 background: "none",
