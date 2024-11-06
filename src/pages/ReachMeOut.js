@@ -2,7 +2,7 @@ import React from "react"
 const ReachMeOut = () => {
   return (
     <div className="container-fluid p-0">
-      <div className="vh-100 redBg d-flex align-items-center scrollChild">
+      <div className="vh-100 pinkBg d-flex align-items-center scrollChild">
         <div className="row w-100">
           <div className="col-12 col-md-10 offset-md-1 text-end p-5">
             <h1>Feel free to contact me</h1>

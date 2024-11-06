@@ -46,6 +46,31 @@ code {
   letter-spacing: 0.08em;
   font-weight: 400;
   font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.nav-link {
+  position: relative;
+}
+
+.nav-link::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #333333;
+  width: 0%;
+  content: "";
+  height: 4px;
+  transition: all 0.5s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+.nav-link.active::after {
+  width: 100%;
 }
 
 h1 {
