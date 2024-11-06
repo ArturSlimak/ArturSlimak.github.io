@@ -13,12 +13,12 @@ const ReachMeOut = () => {
                 rel="noopener noreferrer"
                 className="links"
               >
-                https://www.linkedin.com/in/artur-slimak
+                LinkedIn
               </a>
             </h4>
             <h4>
               <a href="mailto:artur_slimak@icloud.com" className="links">
-                artur_slimak@icloud.com
+                Email
               </a>
             </h4>
           </div>

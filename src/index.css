@@ -113,6 +113,16 @@ h4 {
   color: #fffcff;
 }
 
+@media (max-width: 480px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  h4 {
+    font-size: 1rem;
+  }
+}
+
 .highlight {
   background-color: #333333;
   padding: 2px 4px;
