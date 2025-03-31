@@ -1,21 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.f75a44d0.css",
-    "main.js": "/static/js/main.fa5f752a.js",
+    "main.js": "/static/js/main.c4693098.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/webshop_all.png": "/static/media/webshop_all.ebb648ce689f32248933.png",
+    "static/media/svkandroid.png": "/static/media/svkandroid.692e45cbc75973af14fd.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/weatherAppMain.png": "/static/media/weatherAppMain.254dd2d51d36d74700a7.png",
+    "static/media/webshop_cart.png": "/static/media/webshop_cart.4b1f38f3cf70999ba440.png",
+    "static/media/ananaumain.png": "/static/media/ananaumain.5587d364ca2d9ab471ca.png",
+    "static/media/svkblazdet.png": "/static/media/svkblazdet.c94a8d293f2664c7632f.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/home.png": "/static/media/home.1932119973eddf976df3.png",
     "index.html": "/index.html",
     "main.f75a44d0.css.map": "/static/css/main.f75a44d0.css.map",
-    "main.fa5f752a.js.map": "/static/js/main.fa5f752a.js.map",
+    "main.c4693098.js.map": "/static/js/main.c4693098.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f75a44d0.css",
-    "static/js/main.fa5f752a.js"
+    "static/js/main.c4693098.js"
   ]
 }
