@@ -10,9 +10,9 @@ const WeatherApp = () => {
           <h1>Weather App</h1>
           <h4 className="lh-base">
             The Android app was built using{" "}
-            <span className="highlight">#Kotlin</span>,{" "}
-            <span className="highlight">#MVVM</span>, and{" "}
-            <span className="highlight">#Retrofit</span> <br /> Designed
+            <span className="highlight">Kotlin</span>,{" "}
+            <span className="highlight">MVVM</span>, and{" "}
+            <span className="highlight">Retrofit</span> <br /> Designed
             following{" "}
             <span className="highlight">Google's Android UI/UX guidelines</span>{" "}
             for a modern and intuitive user experience.

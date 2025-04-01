@@ -9,10 +9,10 @@ const TheVerySite = () => {
         <div className="col-12 col-md-6 text-end p-5">
           <h1>The Very Site</h1>
           <h4 className="lh-base">
-            The site was built using <span className="highlight">#React</span>,{" "}
-            <span className="highlight">#Bootstrap</span>, <br />
-            custom <span className="highlight">#CSS</span>, and published on{" "}
-            <span className="highlight">#Github</span> pages
+            The site was built using <span className="highlight">React</span>,{" "}
+            <span className="highlight">Bootstrap</span>, <br />
+            custom <span className="highlight">CSS</span>, and published on{" "}
+            <span className="highlight">Github</span> pages
           </h4>
           <h4 className="mt-3 lh-base">
             <a

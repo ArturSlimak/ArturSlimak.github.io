@@ -78,9 +78,9 @@ const WebShop = () => {
             <br /> such as a product overview, type-based filtering, order
             placement,
             <br /> and Firebase-powered authentication.
-            <br /> Built with <span className="highlight">#React</span>,
-            <span className="highlight">#Bootstrap</span>, and custom
-            <span className="highlight">#CSS</span>.
+            <br /> Built with <span className="highlight">React</span>,{" "}
+            <span className="highlight">Bootstrap</span>, and custom{" "}
+            <span className="highlight">CSS</span>.
           </h4>
         </div>
       </div>

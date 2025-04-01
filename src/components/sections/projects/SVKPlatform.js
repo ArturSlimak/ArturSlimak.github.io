@@ -76,11 +76,11 @@ const SVKPlatform = () => {
             companies. Pictures can be captured on Android devices <br /> and
             managed seamlessly on the website.
             <br /> Built with{" "}
-            <span className="highlight">#ASP.NET Core 6.0</span>,{" "}
-            <span className="highlight">#Blazor</span>,{" "}
-            <span className="highlight">#Entity Framework Core 6.0</span>,{" "}
-            <span className="highlight">#MariaDB</span>,{" "}
-            <span className="highlight">#LetsEncrypt</span> for efficient
+            <span className="highlight">ASP.NET Core 6.0</span>,{" "}
+            <span className="highlight">Blazor</span>,{" "}
+            <span className="highlight">Entity Framework Core 6.0</span>,{" "}
+            <span className="highlight">MariaDB</span>,{" "}
+            <span className="highlight">LetsEncrypt</span> for efficient
             development and secure deployment.
           </h4>
         </div>

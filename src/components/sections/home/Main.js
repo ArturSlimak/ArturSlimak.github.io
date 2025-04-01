@@ -10,7 +10,7 @@ const Main = () => {
           <div className="col-12 text-center">
             <h1>Hi, I'm Artur</h1>
             <h4 className="lh-base">
-              Motivated back-end developer with a passion for strongly-typed
+              Motivated (back-end) developer with a passion for strongly-typed
               languages
             </h4>
           </div>

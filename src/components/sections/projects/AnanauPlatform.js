@@ -12,9 +12,10 @@ const AnanauPlatform = () => {
             The CRM system handles volunteer and intern registration, manages
             the library efficiently, and supports QR-scanning for easy check-in
             and check-out.
-            <br /> Built with <span className="highlight">#ASP.NET Core</span>,
-            <span className="highlight">#REST API</span>, and
-            <span className="highlight">#SQL Database</span> for a secure and
+            <br /> Built with
+            <span className="highlight">ASP.NET Core</span>,{" "}
+            <span className="highlight">REST API</span>, and{" "}
+            <span className="highlight">SQL Database</span> for a secure and
             scalable back-end.
           </h4>
         </div>
