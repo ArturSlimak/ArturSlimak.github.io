@@ -72,7 +72,7 @@ const SVKPlatform = () => {
         <div className="col-12 col-md-6 text-start p-5">
           <h1>Platform for a fibre cement company</h1>
           <h4 className="lh-base">
-            The platform enables internal control of outsourcing delivery
+            The B platform enables internal control of outsourcing delivery
             companies. Pictures can be captured on Android devices <br /> and
             managed seamlessly on the website.
             <br /> Built with{" "}
