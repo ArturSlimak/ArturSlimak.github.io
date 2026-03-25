@@ -8,40 +8,42 @@ const Skills = () => {
         <div className="col-12 col-md-10 offset-md-1 text-start p-5">
           <h1>Skills</h1>
           <h4 className="lh-base">
-            Here, I've listed all the skills I possess.
-            <br /> You can find the project-based implementations of these
-            skills{" "}
+            A selection of technologies and methodologies I use to build robust,
+            scalable, and maintainable applications. Explore project-based
+            examples{" "}
             <Link className="links" to="/projects">
               here
             </Link>
+            .
           </h4>
 
           <h4 className="mt-3 lh-base">
-            <span className="highlight">C#</span>{" "}
-            <span className="highlight">Java</span>{" "}
-            <span className="highlight">SQL</span>{" "}
-            <span className="highlight">JS</span>{" "}
-            <span className="highlight">Kotlin</span>
+            <strong>Languages:</strong> <span className="highlight">Java</span>,{" "}
+            <span className="highlight">Kotlin</span>,{" "}
+            <span className="highlight">JavaScript</span>,{" "}
+            <span className="highlight">SQL</span>
             <br />
-            <span className="highlight">.NET Framework</span>{" "}
-            <span className="highlight">ASP.NET Core</span>{" "}
-            <span className="highlight">Entity Framework</span>
-            <br />
-            <span className="highlight">SQL Server</span>{" "}
-            <span className="highlight">MongoDB</span> <br />
-            <span className="highlight">REST</span>{" "}
-            <span className="highlight">GraphQL</span>{" "}
-            <span className="highlight">Swagger</span>{" "}
-            <span className="highlight">Kafka</span>
-            <br />
-            <span className="highlight">MAUI</span>{" "}
-            <span className="highlight">React</span>{" "}
-            <span className="highlight">Razor pages</span>{" "}
-            <span className="highlight">Blazor</span>{" "}
+            <strong>Frameworks & Platforms:</strong>{" "}
+            <span className="highlight">Spring Boot</span>,{" "}
+            <span className="highlight">Spring WebFlux</span>,{" "}
+            <span className="highlight">React</span>,{" "}
             <span className="highlight">Jetpack Compose</span>
             <br />
-            <span className="highlight">MVC</span>{" "}
-            <span className="highlight">MVVM</span>{" "}
+            <strong>Databases:</strong>{" "}
+            <span className="highlight">PostgreSQL</span>,{" "}
+            <span className="highlight">MongoDB</span>
+            <br />
+            <strong>AI & Machine Learning:</strong>{" "}
+            <span className="highlight">Pre-trained ML models</span>,{" "}
+            <span className="highlight">AI API integration</span>
+            <br />
+            <strong>Tools & Methodologies:</strong>{" "}
+            <span className="highlight">REST</span>,{" "}
+            <span className="highlight">GraphQL</span>,{" "}
+            <span className="highlight">Swagger</span>,{" "}
+            <span className="highlight">Kafka</span>,{" "}
+            <span className="highlight">MVC</span>,{" "}
+            <span className="highlight">MVVM</span>,{" "}
             <span className="highlight">SOLID</span>
           </h4>
         </div>

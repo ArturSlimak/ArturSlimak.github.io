@@ -7,23 +7,21 @@ const AnanauPlatform = () => {
     <FullpageSection className="vh-100 yellowBg d-flex align-items-center">
       <div className="row w-100">
         <div className="col-12 col-md-6 text-end p-5">
-          <h1>Back-End Development for Ananau NGO's CRM System</h1>
+          <h1>Back-End Platform for Ananau NGO's CRM</h1>
           <h4 className="lh-base">
-            The CRM system handles volunteer and intern registration, manages
-            the library efficiently, and supports QR-scanning for easy check-in
-            and check-out.
-            <br /> Built with
-            <span className="highlight">ASP.NET Core</span>,{" "}
-            <span className="highlight">REST API</span>, and{" "}
-            <span className="highlight">SQL Database</span> for a secure and
-            scalable back-end.
+            This CRM manages volunteer and intern registration, organizes the
+            library, and enables QR-based check-ins/check-outs efficiently.
+            <br /> Built with <span className="highlight">Spring Boot 3.x</span>
+            , <span className="highlight">Spring WebFlux & REST API</span>, and{" "}
+            <span className="highlight">PostgreSQL</span>, providing a secure,
+            scalable, and maintainable back-end.
           </h4>
         </div>
 
         <div className="col-12 col-md-6 p-5">
           <img
             src={AnanauMain}
-            alt="Main page of the platform"
+            alt="Main page of Ananau CRM platform"
             className="img-fluid"
             loading="lazy"
             style={{ objectFit: "cover" }}

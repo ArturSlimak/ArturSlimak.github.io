@@ -10,13 +10,13 @@ const Main = () => {
           <div className="col-12 text-center">
             <h1>Hi, I'm Artur</h1>
             <h4 className="lh-base">
-              Motivated (back-end) developer with a passion for strongly-typed
-              languages
+              Java developer passionate about strongly-typed languages, clean
+              code, and building maintainable back-end systems.
             </h4>
           </div>
         </div>
         <div className="position-absolute bottom-0 start-50 translate-middle-x mb-4">
-          <FontAwesomeIcon icon={faChevronDown} className="arrow-icon fs-1 " />
+          <FontAwesomeIcon icon={faChevronDown} className="arrow-icon fs-1" />
         </div>
       </div>
     </FullpageSection>

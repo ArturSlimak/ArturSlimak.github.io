@@ -70,18 +70,17 @@ const SVKPlatform = () => {
         </div>
 
         <div className="col-12 col-md-6 text-start p-5">
-          <h1>Platform for a fibre cement company</h1>
+          <h1>Smart Platform for a Fibre Cement Company</h1>
           <h4 className="lh-base">
-            The B platform enables internal control of outsourcing delivery
-            companies. Pictures can be captured on Android devices <br /> and
-            managed seamlessly on the website.
-            <br /> Built with{" "}
-            <span className="highlight">ASP.NET Core 6.0</span>,{" "}
-            <span className="highlight">Blazor</span>,{" "}
-            <span className="highlight">Entity Framework Core 6.0</span>,{" "}
-            <span className="highlight">MariaDB</span>,{" "}
-            <span className="highlight">LetsEncrypt</span> for efficient
-            development and secure deployment.
+            This platform streamlines the management of outsourcing delivery
+            teams. Images and data can be captured on Android devices and synced
+            instantly with the web interface.
+            <br /> Built with <span className="highlight">Spring Boot 3.x</span>
+            , <span className="highlight">Spring WebFlux</span>,{" "}
+            <span className="highlight">Hibernate ORM</span>,{" "}
+            <span className="highlight">PostgreSQL</span>, and{" "}
+            <span className="highlight">Let's Encrypt</span>, ensuring a modern,
+            scalable, and secure solution.
           </h4>
         </div>
       </div>
